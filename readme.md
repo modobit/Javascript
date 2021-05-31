@@ -1,10 +1,9 @@
 # Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
-> An awesome list limited to the best JavaScript learning resources
+> JavaScript learning resources
 
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
 
