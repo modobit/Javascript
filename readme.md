@@ -5,6 +5,10 @@
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
 
+## JS Dev Documentation 
+- https://developer.mozilla.org/en-US/docs/Web/API/Document
+
+
 ## JS Dom
 - https://www.youtube.com/watch?v=y17RuWkWdn8
 
