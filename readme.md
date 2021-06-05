@@ -5,6 +5,11 @@
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
 
+## JS Dom
+- https://www.youtube.com/watch?v=y17RuWkWdn8
+
+
+
 ## Contents
 
 - [JavaScript References](#javascript-references)
