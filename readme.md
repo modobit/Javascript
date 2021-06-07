@@ -5,6 +5,9 @@
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
 
+## JS YouTube Tutorial
+- https://www.youtube.com/watch?v=0ik6X4DJKCc&t=2s&ab_channel=TraversyMedia
+
 ## JS Dev Documentation 
 - https://developer.mozilla.org/en-US/docs/Web/API/Document
 
